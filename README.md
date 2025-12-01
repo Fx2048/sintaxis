@@ -1,0 +1,2 @@
+# sintaxis
+sintaxis from db
